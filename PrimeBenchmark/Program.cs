@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace PrimeBenchmark
 {
-    internal class Program
+    public class Program
     {
         private static void Main()
         {
